@@ -1,2 +1,2 @@
-# Dengue_forecasting_RNN_LSTM
-Dengue forecasting using machine learning (RNN - LSTM ) build model
+# Dengue forecasting using Machine Learning Algorithms
+Dengue forecasting using machine learning models
